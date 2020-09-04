@@ -24,7 +24,7 @@
     "@types/node": "^10.12.2",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongodb": "^3.1.8",
+    "mongodb": "^3.1.13",
     "tslint": "^5.11.0",
     "tslint-config-standard": "^8.0.1",
     "typescript": "^3.1.6"
